@@ -1,0 +1,12 @@
+#team {
+  background-color: #f4f4fd;
+}
+
+.team-card {
+  background-color: #ffffff;
+}
+
+.team-card h3,
+.team-card p {
+  text-align: center;
+}
