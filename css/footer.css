@@ -1,8 +1,8 @@
-footer {
+.footer-section {
   background-color: #2e2f42;
 }
 
-footer .logo,
-footer p {
+.footer-section .logo,
+.footer-p {
   color: #f4f4fd;
 }

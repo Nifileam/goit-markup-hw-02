@@ -7,24 +7,40 @@
   color: #2e2f42;
 }
 
-header a {
+.nav-a,
+.address-a {
   text-decoration: none;
 }
 
-nav a {
+.nav-a {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
-nav a:hover,
-nav a:focus,
-nav a:active {
+.nav-a:hover,
+.nav-a:focus,
+.nav-a:active {
   color: #404bbf;
 }
 
-address a {
+.address {
+  font-style: normal;
+}
+
+.address-a {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
-address a:hover {
+.address-a:hover,
+.address-a:focus {
   color: #404bbf;
 }
